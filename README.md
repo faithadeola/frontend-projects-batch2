@@ -15,7 +15,7 @@ Each project is self-contained with its own folder, code, and screenshot.
 - **Description:** A landing page split into two sections with hover effects that expand/collapse sides smoothly.  
 - **Skills:** CSS flexbox, transitions, responsive design.  
 - **Screenshot:**  
-  ![Split Landing Page](.splitlandingpage.png)
+  ![Split Landing Page](https://github.com/faithadeola/frontend-projects-batch2/blob/main/Split%20Landing%20Page/splitlandingpage.png)
 
 ---
 

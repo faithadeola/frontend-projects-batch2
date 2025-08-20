@@ -38,7 +38,7 @@ Each project is self-contained with its own folder, code, and screenshot.
 - **Description:** Fetches random dad jokes from an API and displays them dynamically.  
 - **Skills:** JavaScript Fetch API, async/await, API integration.  
 - **Screenshot:**  
-  ![Dad Jokes](https://github.com/faithadeola/frontend-projects-batch2/blob/main/Dad%20Jokes#:~:text=Dad%20Jokes/dadjokes.png)
+  ![Dad Jokes](https://github.com/faithadeola/frontend-projects-batch2/blob/main/Dad%20Jokes/dadjokes.png)
 
 ---
 
